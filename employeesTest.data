@@ -1,0 +1,4 @@
+{"basicSalary":10000,"className":"telran.employees.Manager","id":1001,"department":"QA","factor":1.6}
+{"hours":200,"basicSalary":11000,"className":"telran.employees.SalesPerson","id":1004,"department":"Audit","percent":1,"sales":600,"wage":120}
+{"basicSalary":12000,"className":"telran.employees.Manager","id":1010,"department":"Audit","factor":1.6}
+{"basicSalary":13222,"className":"telran.employees.Manager","id":1111,"department":"Development","factor":2}
